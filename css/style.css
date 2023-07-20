@@ -1,1 +1,112 @@
+.container {
+    background-color: #F8E8EE;
+    height: 100%;
+}
+.utama{
+    background-color: #C0DBEA;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 925px;
+    align-items: center;
+    margin: 0 auto;
+}
+div .jk{
+    font-size: large;
+    font-weight: bold;
+    display: inline;
+    padding-right: 10px;
+}
+button{
+    margin: 0 auto;
+    background-color: #7C96AB;
+    border: none; 
+    color: white; 
+    height: 35px; 
+    width: 110px; 
+    border-radius: 5px;
+    display: inline;
+}
+.tengah {
+    text-align: center;
+}
+#nantihilang {
+    background-color: #C0DBEA;
+    list-style-position: inside;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    width: 910px;
+    margin: 0 auto;
+    padding-left: 15px;
+}
+label {
+    font-size: large;
+    font-weight: bold;
+}
+#jenisklm {
+    font-weight: normal;
+}
+.angka{
+    width: 450px;
+    height: 35px;
+}
+div .bb {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+div .usia {
+    margin-bottom: 15px;
+}
+
+div .tombol {
+    margin-top: 30px;
+}
+
+button .hitung {
+    color: aqua;
+}
+
+div .editinput {
+    background-color:#E0E0E0;
+   
+}
+
+img {
+    width: 35px;
+    height: 35px;
+    border: 1px solid black;   
+}
+p {
+    font-size: large;
+}
+li {
+    font-size: large;
+}
+
+.hasilmuncul {
+    background-color: #C0DBEA;
+    align-items: center;
+    margin: 0 auto;
+    width: 910px;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+
+#downloadhasil {
+    width: 200px;
+}
+
+#konsulgizi {
+    margin: 0 auto;
+    background-color: #7C96AB;
+    border: none; 
+    color: white; 
+    height: 35px; 
+    width: 200px; 
+    border-radius: 5px;
+    display: inline;
+}
 
